@@ -44,9 +44,6 @@ Generated per-frame CSV files
 results/
 Processed output videos with trajectory overlays
 
-models/
-Trained model weights (if file size allows)
-
 report.pdf
 Detailed technical documentation
 
