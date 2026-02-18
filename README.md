@@ -230,3 +230,35 @@ Distance Gating
 Trajectory Smoothing
 ↓
 CSV Export + Processed Video
+
+Large Files (Model & Videos)
+
+Due to GitHub file size limitations, large files are hosted externally.
+
+Model Weights:
+Insert your Google Drive link here
+
+Processed Output Videos:
+Insert your Google Drive link here
+
+Known Limitations
+
+Performance may degrade for extremely low-resolution footage
+
+Severe occlusion can cause missed detections
+
+Extreme motion blur frames remain challenging
+
+Conclusion
+
+Through iterative experimentation and domain-specific fine-tuning, the final system significantly improves robustness compared to the pretrained baseline.
+
+The final pipeline is:
+
+Modular
+
+Reproducible
+
+Stable
+
+Suitable for sports analytics applications
