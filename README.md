@@ -236,10 +236,10 @@ Large Files (Model & Videos)
 Due to GitHub file size limitations, large files are hosted externally.
 
 Model Weights:
-Insert your Google Drive link here
+https://drive.google.com/drive/folders/1FtdwtOCfo7m7Fp5vpIH0Ex5enXsWikN3?usp=sharing
 
 Processed Output Videos:
-Insert your Google Drive link here
+https://drive.google.com/drive/folders/1xjQKXL2p44xfDmL_vA-3b5c3ug_subbn?usp=sharing
 
 Known Limitations
 
