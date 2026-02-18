@@ -105,11 +105,7 @@ Best model weights are generated at:
 runs/detect/cricket_ball_finetune/weights/best.pt
 ```
 
-Move the best model to:
-
-```
-models/best_finetuned.pt
-```
+Replace the model path file in the code.
 
 ---
 
